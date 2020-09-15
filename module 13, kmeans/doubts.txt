@@ -1,0 +1,5 @@
+kmeans doubts
+
+1) can we find out the values of tot.ss, tot.withinss,betweenss values with python code.
+2) cant we use scale function in python also to normalize the values instead of defining new function.
+3) what is the significance of kselection in r, most of the time it is giving me value of k as 2, which i dont find useful.
