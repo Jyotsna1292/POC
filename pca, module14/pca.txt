@@ -1,0 +1,5 @@
+doubts
+
+1) cant we find out summary of clustered model in python, so that we can find clustering ratio. based on summary we can iterate 
+the model multiple times to get the best clustering.
+2) what happens when we do clustering after doing PCA
